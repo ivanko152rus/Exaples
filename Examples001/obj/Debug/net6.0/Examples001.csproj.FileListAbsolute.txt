@@ -1,0 +1,15 @@
+/Users/lol/Desktop/Examples/Examples001/bin/Debug/net6.0/Examples001
+/Users/lol/Desktop/Examples/Examples001/bin/Debug/net6.0/Examples001.deps.json
+/Users/lol/Desktop/Examples/Examples001/bin/Debug/net6.0/Examples001.runtimeconfig.json
+/Users/lol/Desktop/Examples/Examples001/bin/Debug/net6.0/Examples001.dll
+/Users/lol/Desktop/Examples/Examples001/bin/Debug/net6.0/ref/Examples001.dll
+/Users/lol/Desktop/Examples/Examples001/bin/Debug/net6.0/Examples001.pdb
+/Users/lol/Desktop/Examples/Examples001/obj/Debug/net6.0/Examples001.csproj.AssemblyReference.cache
+/Users/lol/Desktop/Examples/Examples001/obj/Debug/net6.0/Examples001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lol/Desktop/Examples/Examples001/obj/Debug/net6.0/Examples001.AssemblyInfoInputs.cache
+/Users/lol/Desktop/Examples/Examples001/obj/Debug/net6.0/Examples001.AssemblyInfo.cs
+/Users/lol/Desktop/Examples/Examples001/obj/Debug/net6.0/Examples001.csproj.CoreCompileInputs.cache
+/Users/lol/Desktop/Examples/Examples001/obj/Debug/net6.0/Examples001.dll
+/Users/lol/Desktop/Examples/Examples001/obj/Debug/net6.0/ref/Examples001.dll
+/Users/lol/Desktop/Examples/Examples001/obj/Debug/net6.0/Examples001.pdb
+/Users/lol/Desktop/Examples/Examples001/obj/Debug/net6.0/Examples001.genruntimeconfig.cache
